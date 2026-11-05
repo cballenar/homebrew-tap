@@ -15,8 +15,8 @@ brew tap cballenar/tap
 brew install arborist
 ```
 
-## Available Formulae
+## Available Packages
 
-| Formula | Description |
+| Package | Description |
 | :--- | :--- |
 | [`arborist`](https://github.com/cballenar/arborist) (`gar`) | High-performance Git worktree and isolated database manager for local web development (DDEV, Lando, Docker). |
